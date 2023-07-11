@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/miniCAFE/static/js/main.6fe4d75a.js",
+    "static/media/pizza3.jpg": "/miniCAFE/static/media/pizza3.f2f9b9a49128f877c57f.jpg",
+    "static/media/featured.jpg": "/miniCAFE/static/media/featured.66d68644270582e9ce8d.jpg",
+    "static/media/pizza1.jpg": "/miniCAFE/static/media/pizza1.4c066971ce4367c6e0bc.jpg",
+    "static/media/sweet1.jpg": "/miniCAFE/static/media/sweet1.6a6ef41a26a456d624bf.jpg",
+    "static/media/sweet2.jpg": "/miniCAFE/static/media/sweet2.d5cf1ad2859c7af98ea3.jpg",
+    "static/media/sweet3.jpg": "/miniCAFE/static/media/sweet3.c495c74278ec63462c5e.jpg",
+    "static/media/pizza2.jpg": "/miniCAFE/static/media/pizza2.115cc32b63d9b7485e7e.jpg",
+    "static/media/asth.avif": "/miniCAFE/static/media/asth.62510069bd129e32f94f.avif",
+    "index.html": "/miniCAFE/index.html",
+    "main.6fe4d75a.js.map": "/miniCAFE/static/js/main.6fe4d75a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6fe4d75a.js"
+  ]
+}
